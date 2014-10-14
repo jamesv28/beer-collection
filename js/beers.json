@@ -1,0 +1,185 @@
+
+[
+    {
+        "name": "Coor's Light",
+        "type": "Pilsner",
+        "alcohol": "4.3",
+        "shortName": "coorsLight",
+        "description": "Coors Light from Coors Brewing Company is an American-Style Light (Low Calorie) Lager. Coors Brewing Company has given Coors Light the following description.Introduced in 1978, Coors Light has been a favorite in delivering the ultimate in cold refreshment for more than 25 years. The simple, silver-toned can caught people's attention and the brew became nicknamed the Silver Bullet",
+        "brewery": "Coors Brewing Company",
+        "website": "http://www.millercoors.com"
+    },
+    {
+        "name": "Breckenridge Vanilla Porter",
+        "type": "Porter",
+        "alcohol": "4.7",
+        "shortName": "breckenridgevanillaporter",
+        "description": "Deep in the jungles of Papua New Guinea and Madagascar grows the perfect ingredient for an extraordinary Porter brewed in Colorado. Breckenridge Brewery’s Vanilla Porter. An ale that has all the chocolate and roasted nut flavor of a classic Porter, with an enigmatic surprise thrown in for good measure.",
+        "brewery": "Breckenridge Brewing Company",
+        "website": "http://www.breckbrew.com"
+    },
+    {
+        "name": "Budweiser",
+        "type": "Pilsner",
+        "alcohol": "5",
+        "shortName": "bud",
+        "description": "Brewed and sold since 1876, aka The King of Beers, is the largest-selling beer in the world. Budweiser has been the world’s best-selling beer since 1957, and is distributed in more than 70 countries. Budweiser leads the U.S. Premium beer category, outselling all other domestic premium beers combined. In fact, one in almost every five beers sold in the United States today is a Budweiser.",
+        "brewery": "Anheuser Busch",
+        "website": "anheuser-busch.com"
+    },
+    {
+        "name": "Bud Light",
+        "type": "Pilsner",
+        "alcohol": "4.2",
+        "shortName": "budLight",
+        "description": "Introduced nationally in 1982, Bud Light is brewed with a malt and hops ratio different from Budweiser for a distinctively crisp taste with fewer calories.",
+        "brewery": "Anheuser Busch",
+        "website": "anheuser-busch.com"
+    },
+    {
+        "name": "New Belgium Fat Tire",
+        "type": "Amber",
+        "alcohol": "5.2",
+        "shortName": "fatTire",
+        "description": "Named in honor of our co-founder's bike trip through Europe, Fat Tire Amber Ale marks a turning point in the young electrical engineer's home brewing. Belgian beers use a far broader palette of ingredients (fruits, spices, esoteric yeast strains) than German or English styles. Together with co-founder Kim Jordan, they traveled around sampling their homebrews to the public. Fat Tire won fans with its sense of balance: toasty, biscuit-like malt flavors coasting in equilibrium with hoppy freshness. Fat Tire: Pairs well with people.",
+        "brewery": "New Belgium Brewery",
+        "website": "www.newbelgium.com"
+    },
+    {
+        "name": "Guiness",
+        "type": "Stout",
+        "alcohol": "5",
+        "shortName": "guiness",
+        "description": "Guinness Draught from Guinness is an American-Style Stout. Pasteurised. Usually called Draught; sometimes called Cold or Extra Cold - same beer, but served colder.Launched in 1961. Ingredients: Pale ale malt, about 25 to 30% flaked barley, and about 10% roasted barley, with no other grains or sugars; several hop varieties, mainly Goldings (pellets and isomerized extract); a flocculent head-forming ale yeast.",
+        "brewery": "St. James's Gate Brewery",
+        "website": "http://www.guinness-storehouse.com/en"
+    },
+    {
+        "name": "New Belgium Trippel",
+        "type": "Triple Bock",
+        "alcohol": "7.8",
+        "shortName": "trippel",
+        "description": "Our Trippel Belgian Style Ale (pronounced triple) opens with a bold blast of hops that slowly gives way to the fruity esters implied by our Belgian yeast strain. In the Belgian tradition of brewing singles, doubles and triples, Trippel is the strongest with the longest fermentation. Remarkably smooth and complex, our bottle-conditioned Trippel is spiced with a trace of coriander.",
+        "brewery": "New Belgium Brewery",
+        "website": "www.newbelgium.com"
+    },
+    {
+        "name": "Left Hand Milk Stout Nitro",
+        "type": "Sweet Stout",
+        "alcohol": "6",
+        "shortName": "leftHandNitroStout",
+        "description": "Milk sugar in your stout is like cream in your coffee. Dark and delicious, America’s great milk stout will change your perception about what a stout can be. “Preconceived notions are the blinders on the road to enlightenment.” Udderly delightful.",
+        "brewery": "Left Hand Brewing Co.",
+        "website": "http://lefthandbrewing.com"
+    },
+    {
+        "name": "Mickey's Fine Malt Liquor",
+        "type": "Malt Liquor",
+        "alcohol": "5.6",
+        "shortName": "mickeys",
+        "description": "Mickey’s is the fine malt liquor with a full body, moderate bitterness and a fruity aroma.",
+        "brewery": "MillerCoors",
+        "website": "http://www.mickeys.com"
+    },
+    {
+        "name": "Miller Lite",
+        "type": "Pilsner",
+        "alcohol": "4.2",
+        "shortName": "millerLite",
+        "description": "This carefully crafted pilsner uses the finest ingredients and brewing techniques to ensure rich, full-bodied beer taste at only 96 calories.",
+        "brewery": "MillerCoors",
+        "website": "http://www.millercoors.com"
+    },
+    {
+        "name": "Newcastle",
+        "type": "Brown Ale",
+        "alcohol": "4.7",
+        "shortName": "newCastle",
+        "description": "Newcastle is the quintessential rich, English brown ale. It is is sweet, malty, somewhat nutty, yet refreshing.",
+        "brewery": "The Caledonian Brewery Company ",
+        "website": "https://www.caledonianbeer.com"
+    },
+    {
+        "name": "Pabst Blue Ribbon",
+        "type": "American Adjunct Lager",
+        "alcohol": "4.74",
+        "shortName": "pbr",
+        "description": "Brewed with a combination of 2 & 6-row malted barley, select cereal grains and American and European hops, Pabst Blue Ribbon is fermented with a proprietary lager yeast. Our unique fermentation and maturation process results in a smooth, full bodied beer with a clean, crisp finish with a fine noble hop aroma.",
+        "brewery": "Pabst Brewing Company",
+        "website": "http://www.pabstblueribbon.com"
+    },
+    {
+        "name": "Red Stripe",
+        "type": "Pale Lager",
+        "alcohol": "4.7",
+        "shortName": "redStripe",
+        "description": "It is a light alcohol drink with not too strong bitterness but rather soft taste; therefore, it’s easy to drink it up.",
+        "brewery": "Desnoes and Geddes",
+        "website": "www.redstripebeer.com"
+    },
+    {
+        "name": "Sam Adams Boston Lager",
+        "type": " Amber Lager/Vienna",
+        "alcohol": "4.8",
+        "shortName": "samAdamsBostonLager",
+        "description": "handcrafted in single batches with extordinary care and attention. Following my great-great grandfathers recipe, we use only classic ingredients: hand-selected Hallertau, Mittelfrueh and Tettnanger hops, two-row summer barley and pure water. No other American lager matches this rich, robust and complex taste.",
+        "brewery": "Sam Adams Brewery",
+        "website": "http://www.samueladams.com"
+    },
+    {
+        "name": "Sierra Nevada Pale Ale",
+        "type": "American Pale Ale",
+        "alcohol": "5.6",
+        "shortName": "sierraNevadaPaleAle",
+        "description": "Generous quantities of premium Cascade hops give the Pale Ale its fragrant bouquet and spicy flavor. ",
+        "brewery": "Sierra Nevada Brewing Co.",
+        "website": "www.sierranevada.com"
+    },
+    {
+        "name": "Smithwick's Ale",
+        "type": "Irish Ale",
+        "alcohol": "5",
+        "shortName": "smithwicks",
+        "description": "Smithwick’s is produced using the finest hops and special roasted, malted barley. In 1998 a new enhanced draught product with improved head retention was launched along with redesigned glassware.",
+        "brewery": "St. James’s Gate",
+        "website": "http://www.smithwicks.ie/index.html"
+    },
+    {
+        "name": "Tommyknockers Brown Ale",
+        "type": "Brown Ale",
+        "alcohol": "4.5",
+        "shortName": "tommyknockerBrown",
+        "description": "A delicate amount of Maple syrup is added to each barrel of our award winning Maple Nut Brown Ale to impart roasted sweetness. This addition balances the nut flavor produced by Munich caramel and chocolate malts used in the brewhouse, producing a drinkable dark amber ale with a relatively low alcohol content",
+        "brewery": "Tommyknocker Brewery",
+        "website": "http://www.tommyknocker.com"
+    },
+
+    {
+        "name": "90 Schilling",
+        "type": "Amber Ale",
+        "alcohol": "5.3",
+        "shortName": "90Schilling",
+        "description": " For a while, we’d been wondering what would happen if we lightened up the traditional Scottish ale? The result is an irresistibly smooth and delicious medium-bodied amber ale. The name 90 Shilling comes from the Scottish method of taxing beer. Only the highest quality beers were taxed 90 Shillings. A shilling was a British coin used from 1549 to 1982. We think you’ll find this original ale brilliantly refreshing, and worth every shilling.",
+        "brewery": "O'Dell's Brewing Co.",
+        "website": "www.odellbrewing.com"
+    },
+    {
+        "name": "Rogue Beard Beer",
+        "type": "Belgian Ale",
+        "alcohol": "5.6",
+        "shortName": "beardBeer",
+        "description": "Beard beer is brewed with a yeast created from Brewmaster John Maier’s beard. No need to freak out, brewers have used wild yeasts in beer making for centuries. John has had the same old growth beard since 1978 and for over 15,000 brews, so it is no great surprise that a natural yeast ideal for brewing was discovered in his beard. What does bread beer taste like? try it, we think you’ll be surprised.",
+        "brewery": "Rogue Ales",
+        "website": "www.rogue.com"
+    },
+    {
+        "name": "Blue Moon",
+        "type": "Belgium White",
+        "alcohol": "5.4",
+        "shortName": "blueMoon",
+        "description": "The flavor starts crisp and tangy and ends with a coriander and orange spiciness. The Valencia orange peel gives a subtle sweetness to the beer.",
+        "brewery": "Blue Moon Brewery",
+        "website": "www.bluemoonbrewingcompany.com"
+    }
+
+]

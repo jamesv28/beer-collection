@@ -1,0 +1,44 @@
+<div class="jumbotron" style="text-align: center;">
+    <h1>My Beer Collection</h1><small>By: James Volmert</small>
+</div>
+<section>
+<div class="search" style="text-align: center;">
+    <h1>Beer Directory</h1>
+    <label>Search</label>
+    <input ng-model="query" placeholder="Search for Beers" autofocus/>
+</div><br>
+    <div class="form-group col-md-offset-5">
+        <select ng-model="beerOrder">
+            <option value="alcohol">Alcohol</option>
+            <option value="type">Type</option>
+        </select>
+        <label>Highest
+        <input type="radio" ng-model="direction" name="direction" checked>
+        </label>
+        <label>Lowest
+        <input type="radio" ng-model="direction" name="direction" value="reverse">
+        </label>
+    </div>
+<table class="table table-bordered">
+    <thead>
+        <tr >
+            <td>Logo</td>
+            <td >Beer</td>
+            <td>Type</td>
+            <td>Alcohol</td>
+            <td>Brewery</td>
+        </tr>
+    </thead>
+    <tbody>
+    <tr ng-animate="animate" class="beer" ng-repeat="item in beers | filter: query | orderBy: beerOrder:direction" >
+
+        <td> <a href="#/details/{{beers.indexOf(item)}}"><img ng-src="images/{{item.shortName}}.jpg">
+        </a></td>
+        <td>{{item.name}}</td>
+        <td>{{item.type}}</td>
+        <td>{{item.alcohol}}</td>
+        <td>{{item.brewery}}</td>
+    </tr>
+    </tbody>
+</table>
+</section>

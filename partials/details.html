@@ -1,0 +1,24 @@
+<div class="row">
+<section ng-model="beers" class="col-md-12">
+    <div class="page-header">
+    <h1 class="text-center">{{beers[whichItem].name}}</h1>
+        <h3 class="text-center ">Brewery:  {{beers[whichItem].brewery}}</h3>
+    </div>
+    <img class="imgBio col-md-4 col-md-offset-1" ng-src="images/{{beers[whichItem].shortName}}.jpg" alt="Photo of {{beers[whichItem].name}}"/>
+    <div class="col-md-5">
+        <h3 class="text-center text-info">Description</h3>
+        <p>{{beers[whichItem].description}}</p>
+    </div>
+    </section>
+    </div><br>
+    <div class="row">
+    <section class="col-md-8 col-md-offset-2">
+    <a href="#/details/{{prevItem}}" class="btn btn-success col-md-1 col-md-push-2"><span class="glyphicon glyphicon-chevron-left"></span>Prev </a>
+    <a href="#/details/{{nextItem}}" class="btn btn-primary active  col-md-1 col-md-push-8">Next<span class="glyphicon glyphicon-chevron-right"></span> </a>
+    </section>
+    </div><br>
+    <div class="row">
+        <div class="col-md-12 ">
+        <a style="background: #000000;color: #ffffff;" class="btn col-xs-offset-5 col-xs-2" href="index.html"><span class="glyphicon glyphicon-home"></span> Go back to the beer list</a>
+        </div>
+    </div>
